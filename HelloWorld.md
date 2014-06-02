@@ -1,7 +1,7 @@
 HelloWorld
 ===================
 ## This is a markdown file
-Here are some of the main topics covered in the Data Scientist Toolbox course:
+## Here are some of the main topics covered in the Data Scientist Toolbox course:
 * R and Rstudio
 * Git and Github
 
